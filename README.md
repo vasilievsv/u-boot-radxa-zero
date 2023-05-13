@@ -1,4 +1,4 @@
-# u-boot-s905y2
+# u-boot-u-boot-radxa-zero
 
 ![Animation](./doc/img/anim-1.gif)
 
