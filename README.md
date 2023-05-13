@@ -1,4 +1,4 @@
-# u-boot-u-boot-radxa-zero
+# u-boot-radxa-zero
 
 ![Animation](./doc/img/anim-1.gif)
 
