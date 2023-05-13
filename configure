@@ -41,7 +41,8 @@ if [ "$EUID" -ne 0 ]; then
     #exit
 else
 
-    apt-get install -y device-tree-compiler
+    apt-get update
+    apt-get install -y device-tree-compiler flex
 
 
     # Настройка локали
