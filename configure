@@ -99,7 +99,7 @@ usage:
   make init
   make uboot
   make uboot-pack
-  make all
+  sudo make all
 
 endef
 export HEADER
